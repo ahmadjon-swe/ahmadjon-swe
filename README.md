@@ -66,6 +66,12 @@ Currently seeking a **Junior Backend Developer** role where I can contribute fro
 ### 🗂 CRM System — `Express.js · PostgreSQL · JWT` · 2026
 RESTful API for managing users and business data with secure JWT authentication and authorization. Designed a relational database schema and applied clean, modular architecture throughout.
 
+### 🧩 Task Board — `Express.js · React · PostgreSQL · JWT` · 2026
+Full-stack Trello-style task management app. Users can create boards, invite members, and manage tasks across Kanban columns (Pending → In Progress → Completed). Includes role-based access control, admin panel, and Swagger API docs.
+
+### 🛒 Online Shop — `Express.js · React · TypeScript · PostgreSQL · Sequelize` · 2026
+Full-stack e-commerce platform with OTP email verification, JWT access + refresh tokens, and three roles (user, seller, admin). Sellers can manage product listings with image uploads; users can browse, filter, add to cart/wishlist, and place orders.
+
 ### 📚 Electronic Library API — `Express.js · MongoDB` · 2026
 Backend system for managing books, users, and borrowing logic. Built flexible REST API endpoints with NoSQL data modeling in MongoDB.
 
