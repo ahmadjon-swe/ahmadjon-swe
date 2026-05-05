@@ -22,7 +22,7 @@ Backend Developer specializing in building **RESTful APIs** and scalable backend
 
 I take code quality seriously even as a junior developer — actively thinking about **security**, **maintainability**, and **clean architecture** in every project I build. I pick up new technologies independently by going deep on fundamentals first, then building real things. That's how I learned NestJS, TypeORM, JWT authentication, and role-based access control — all through hands-on projects.
 
-Currently seeking a **Backend Developer** role where I can contribute from day one and grow alongside experienced engineers.
+Currently seeking a **Backend Developer** role where I can contribute from day one alongside experienced engineers.
 
 ---
 
