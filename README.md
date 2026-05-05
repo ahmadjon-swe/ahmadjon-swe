@@ -116,6 +116,3 @@ Open to relocation to tashkent and mostly remote opportunities. Feel free to rea
 
 ---
 
-> **💡 GitHub Bio uchun** (Edit profile → Bio maydoniga ko'chiring):
-> 
-> `⚡ Node.js · 🏗 NestJS · 🚀 Express · 🐘 PostgreSQL · 🍃 MongoDB · 🔐 JWT · 🌿 Git · 🟦 TypeScript`
