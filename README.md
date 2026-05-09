@@ -103,6 +103,8 @@ Task management system with full CRUD functionality. Practiced REST API design p
 
 ## Education & Languages
 
+🎓 **Marketing (by Industries and Sectors)** — Urgench State University · 2020–2024
+
 🎓 **Backend Development (Node.js)** — Najot Ta'lim · 2025–2026
 
 🌐 **English** — B2 · CEFR Certified &nbsp;|&nbsp; **Uzbek** — Native
