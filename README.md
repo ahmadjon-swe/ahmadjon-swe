@@ -64,25 +64,36 @@ Currently seeking a **Backend Developer** role where I can contribute from day o
 
 ## Projects
 
-### 🗂 CRM System — `Express.js · PostgreSQL · JWT` · 2026
-RESTful API for managing users and business data with secure JWT authentication and authorization. Designed a relational database schema and applied clean, modular architecture throughout.
+### 🏫 Educational Center CRM — `NestJS · React (Vite) · TypeScript · PostgreSQL · TypeORM` · 2026
+
+Full-stack management system for educational centers with OTP email authentication, JWT access + refresh tokens, role-based access control, attendance tracking, payment management, and dashboard analytics. Built scalable REST APIs with clean modular architecture, multilingual support (uz/ru/en), dark/light mode, and Swagger API documentation.
 
 ### 🧩 Task Board — `Express.js · React · PostgreSQL · JWT` · 2026
+
 Full-stack Trello-style task management app. Users can create boards, invite members, and manage tasks across Kanban columns (Pending → In Progress → Completed). Includes role-based access control, admin panel, and Swagger API docs.
 
 ### 🛒 Online Shop — `Express.js · React · TypeScript · PostgreSQL · Sequelize` · 2026
+
 Full-stack e-commerce platform with OTP email verification, JWT access + refresh tokens, and three roles (user, seller, admin). Sellers can manage product listings with image uploads; users can browse, filter, add to cart/wishlist, and place orders.
 
 ### 📚 Electronic Library API — `Express.js · MongoDB` · 2026
+
 Backend system for managing books, users, and borrowing logic. Built flexible REST API endpoints with NoSQL data modeling in MongoDB.
 
 ### 🚗 Auto Dealer Platform — `Express.js · MongoDB` · 2026
+
 Backend for managing car listings and user interactions. Implemented CRUD operations with structured API design and optimized MongoDB query performance.
 
 ### 🍔 Fast Food Service App — `React.js · API Integration` · 2025
+
 Frontend interface built with React.js, integrated with backend APIs for real-time data. Managed UI components and asynchronous API requests.
 
+### 🗂 CRM System — `Express.js · PostgreSQL · JWT` · 2026
+
+RESTful API for managing users and business data with secure JWT authentication and authorization. Designed a relational database schema and applied clean, modular architecture throughout.
+
 ### ✅ Todo List API — `Node.js · Express.js` · 2025
+
 Task management system with full CRUD functionality. Practiced REST API design principles and clean code standards.
 
 ---
