@@ -43,6 +43,7 @@ Currently seeking a **Backend Developer** role where I can contribute from day o
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
@@ -64,31 +65,31 @@ Currently seeking a **Backend Developer** role where I can contribute from day o
 
 ## Projects
 
-### 🎓 CheckLab — Online Exam Platform — `NestJS · Next.js 16 · React 19 · TypeScript · PostgreSQL · Docker` · 2026
+### [🎓 CheckLab — Online Exam Platform](https://github.com/ahmadjon-swe/checklap-project-nt) — `NestJS · Next.js 16 · React 19 · TypeScript · PostgreSQL · Docker` · 2026
 
 Full-stack online exam platform with role-based access for admins, teachers, students, and guest test-takers. Features JWT access + refresh tokens with silent refresh, 2FA, and Google OAuth; a proctored exam runner with server-authoritative timer, tab-focus/fullscreen heartbeat, and auto-submit. Includes teacher analytics dashboards, bulk question import, shareable no-account guest test links, Telegram integration, and subscription tiers (Free/Pro/Enterprise) that repaint the entire UI via CSS-variable theming — plus multilingual support (uz/ru/en) and dark/light mode.
 
-### 🛒 TechStore — E-Commerce Platform — NestJS · Next.js · TypeScript · PostgreSQL · Prisma · Docker · 2026
+### [🛒 TechStore — E-Commerce Platform](https://github.com/ahmadjon-swe/techstore-nestjs-nextjs) — `NestJS · Next.js · TypeScript · PostgreSQL · Prisma · Docker` · 2026
 
 Full-stack e-commerce platform built as a pnpm monorepo and deployed on a VPS. Features JWT access + refresh tokens, Google OAuth, and role-based access control (Owner, Manager, Staff, Customer); product catalog with multilingual support (uz/ru/en), cart, wishlist, order management, and Payme payment integration. Includes an admin panel for inventory and user management, Next.js standalone SSR with server-side cookie authentication (BFF pattern), and automated CI/CD via GitHub Actions — pushing to main builds Docker images, pushes to GHCR, and deploys to production automatically.
 
-### 🏫 Educational Center CRM — `NestJS · React (Vite) · TypeScript · PostgreSQL · TypeORM` · 2026
+### [🏫 Educational Center CRM](https://github.com/ahmadjon-swe/crm-fullstack-nestjs-react) — `NestJS · React (Vite) · TypeScript · PostgreSQL · TypeORM` · 2026
 
 Full-stack management system for educational centers with OTP email authentication, JWT access + refresh tokens, role-based access control, attendance tracking, payment management, and dashboard analytics. Built scalable REST APIs with clean modular architecture, multilingual support (uz/ru/en), dark/light mode, and Swagger API documentation.
 
-### 🧩 Task Board — `Express.js · React · PostgreSQL · JWT` · 2026
+### [🧩 Task Board](https://github.com/ahmadjon-swe/trello-clone) — `Express.js · React · PostgreSQL · JWT` · 2026
 
 Full-stack Trello-style task management app. Users can create boards, invite members, and manage tasks across Kanban columns (Pending → In Progress → Completed). Includes role-based access control, admin panel, and Swagger API docs.
 
-### 🛒 Online Shop — `Express.js · React · TypeScript · PostgreSQL · Sequelize` · 2026
+### [🛒 Online Shop](https://github.com/ahmadjon-swe/ecommerce-platform) — `Express.js · React · TypeScript · PostgreSQL · Sequelize` · 2026
 
 Full-stack e-commerce platform with OTP email verification, JWT access + refresh tokens, and three roles (user, seller, admin). Sellers can manage product listings with image uploads; users can browse, filter, add to cart/wishlist, and place orders.
 
-### 📚 Electronic Library API — `Express.js · MongoDB` · 2026
+### [📚 Electronic Library API](https://github.com/ahmadjon-swe/audiobook-platform-backend) — `Express.js · MongoDB` · 2026
 
 Backend system for managing books, users, and borrowing logic. Built flexible REST API endpoints with NoSQL data modeling in MongoDB.
 
-### 🚗 Auto Dealer Platform — `Express.js · MongoDB` · 2026
+### [🚗 Auto Dealer Platform](https://github.com/ahmadjon-swe/autodiler-platform-nt) — `Express.js · MongoDB` · 2026
 
 Backend for managing car listings and user interactions. Implemented CRUD operations with structured API design and optimized MongoDB query performance.
 
@@ -96,11 +97,11 @@ Backend for managing car listings and user interactions. Implemented CRUD operat
 
 Frontend interface built with React.js, integrated with backend APIs for real-time data. Managed UI components and asynchronous API requests.
 
-### 🗂 CRM System — `Express.js · PostgreSQL · JWT` · 2026
+### [🗂 CRM System](https://github.com/ahmadjon-swe/crm-platform-backend) — `Express.js · PostgreSQL · JWT` · 2026
 
 RESTful API for managing users and business data with secure JWT authentication and authorization. Designed a relational database schema and applied clean, modular architecture throughout.
 
-### ✅ Todo List API — `Node.js · Express.js` · 2025
+### [✅ Todo List API](https://github.com/ahmadjon-swe/todo-app-nt) — `Node.js · Express.js` · 2025
 
 Task management system with full CRUD functionality. Practiced REST API design principles and clean code standards.
 
