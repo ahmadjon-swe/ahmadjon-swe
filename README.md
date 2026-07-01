@@ -64,6 +64,14 @@ Currently seeking a **Backend Developer** role where I can contribute from day o
 
 ## Projects
 
+### 🎓 CheckLab — Online Exam Platform — `NestJS · Next.js 16 · React 19 · TypeScript · PostgreSQL · Docker` · 2026
+
+Full-stack online exam platform with role-based access for admins, teachers, students, and guest test-takers. Features JWT access + refresh tokens with silent refresh, 2FA, and Google OAuth; a proctored exam runner with server-authoritative timer, tab-focus/fullscreen heartbeat, and auto-submit. Includes teacher analytics dashboards, bulk question import, shareable no-account guest test links, Telegram integration, and subscription tiers (Free/Pro/Enterprise) that repaint the entire UI via CSS-variable theming — plus multilingual support (uz/ru/en) and dark/light mode.
+
+### 🛒 TechStore — E-Commerce Platform — NestJS · Next.js · TypeScript · PostgreSQL · Prisma · Docker · 2026
+
+Full-stack e-commerce platform built as a pnpm monorepo and deployed on a VPS. Features JWT access + refresh tokens, Google OAuth, and role-based access control (Owner, Manager, Staff, Customer); product catalog with multilingual support (uz/ru/en), cart, wishlist, order management, and Payme payment integration. Includes an admin panel for inventory and user management, Next.js standalone SSR with server-side cookie authentication (BFF pattern), and automated CI/CD via GitHub Actions — pushing to main builds Docker images, pushes to GHCR, and deploys to production automatically.
+
 ### 🏫 Educational Center CRM — `NestJS · React (Vite) · TypeScript · PostgreSQL · TypeORM` · 2026
 
 Full-stack management system for educational centers with OTP email authentication, JWT access + refresh tokens, role-based access control, attendance tracking, payment management, and dashboard analytics. Built scalable REST APIs with clean modular architecture, multilingual support (uz/ru/en), dark/light mode, and Swagger API documentation.
